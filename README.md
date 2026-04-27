@@ -15,12 +15,12 @@
 
 ### 1. الواجهة    
 
-<img scr="screenshots/screen1.png"width="250"/>
+<img src="screenshots/screen1.png"width="250"/>
 *واجهة المستخدم الرئيسية التي تعرض قائمة القصص بتنسيق ألوان (بيج وبني).    *
 
 ### 2. واجهة تفاصيل القصة
-<img scr="screenshots/screen2.png"width="250"/>
+<img src="screenshots/screen2.png"width="250"/>
 *توضح هذه الشاشة الانتقال الناجح وعرض اسم القصة المختارة في صفحة منفصلة.*
 
 ## واجهة الرجوع الى الصفحة الرئيسية 3
-<img scr="screenshots/screen3.png"width="250"/>
+<img src="screenshots/screen3.png"width="250"/>
